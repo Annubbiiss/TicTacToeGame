@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="resetButton">#413E47</color>
+    <color name="button">#2C547C</color>
+    <color name="purple_700">#1E6146</color>
+    <color name="textViewCol">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="backGround">#140639</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="result">#FD8D00</color>
+</resources>
